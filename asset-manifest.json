@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.1dfd0dcb.css",
-    "main.js": "/static/js/main.c4cbdde5.js",
+    "main.js": "/static/js/main.6b5c01f9.js",
     "static/media/social-image.jpg": "/static/media/social-image.1ef89b7ffde69ff46acb.jpg",
     "static/media/geoblue.png": "/static/media/geoblue.fac92b2343aeb1e58f31.png",
     "static/media/resume.pdf": "/static/media/resume.f48e0e69634a4dbc1038.pdf",
@@ -9,10 +9,10 @@
     "static/media/siemens.png": "/static/media/siemens.ad9517d04615517baed8.png",
     "index.html": "/index.html",
     "main.1dfd0dcb.css.map": "/static/css/main.1dfd0dcb.css.map",
-    "main.c4cbdde5.js.map": "/static/js/main.c4cbdde5.js.map"
+    "main.6b5c01f9.js.map": "/static/js/main.6b5c01f9.js.map"
   },
   "entrypoints": [
     "static/css/main.1dfd0dcb.css",
-    "static/js/main.c4cbdde5.js"
+    "static/js/main.6b5c01f9.js"
   ]
 }
