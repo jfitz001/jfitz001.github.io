@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.1dfd0dcb.css",
-    "main.js": "/static/js/main.cdce05a1.js",
+    "main.js": "/static/js/main.fb916dc2.js",
     "static/media/social-image.jpg": "/static/media/social-image.1ef89b7ffde69ff46acb.jpg",
     "static/media/resume.pdf": "/static/media/resume.f48e0e69634a4dbc1038.pdf",
     "static/media/agilent.png": "/static/media/agilent.cab7184ace0a5567b44f.png",
     "static/media/siemens.png": "/static/media/siemens.ad9517d04615517baed8.png",
     "index.html": "/index.html",
     "main.1dfd0dcb.css.map": "/static/css/main.1dfd0dcb.css.map",
-    "main.cdce05a1.js.map": "/static/js/main.cdce05a1.js.map"
+    "main.fb916dc2.js.map": "/static/js/main.fb916dc2.js.map"
   },
   "entrypoints": [
     "static/css/main.1dfd0dcb.css",
-    "static/js/main.cdce05a1.js"
+    "static/js/main.fb916dc2.js"
   ]
 }
